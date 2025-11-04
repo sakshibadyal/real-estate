@@ -13,7 +13,7 @@ const Footer = () => {
             <ul className='flex flex-col gap-2 text-gray-400'>
                 <a href='#Header' className='hover:text-white'>Home</a>
                 <a href='#About Us' className='hover:text-white'>About Us</a>
-                <a href='#Contact Us' className='hover:text-white'>Contact Us</a>
+                <a href='#Contact US' className='hover:text-white'>Contact Us</a>
                 <a href='#Privacy Policy' className='hover:text-white'>Privacy Policy</a>
             </ul>
         </div>
@@ -35,5 +35,6 @@ const Footer = () => {
     </div>
   )
 }
+
 
 export default Footer
